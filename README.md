@@ -15,7 +15,7 @@ I use data to turn broad questions into reproducible analyses: defining the
 problem, cleaning and validating the data, comparing methods, and communicating
 the limits of the result.
 
-## Technical Skills
+## Technical Focus
 
 - **Programming and data:** Python, SQL, R, Pandas, NumPy
 - **Modeling:** scikit-learn, TensorFlow/Keras, recommender systems, NLP,
