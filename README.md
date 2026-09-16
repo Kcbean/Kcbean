@@ -50,5 +50,6 @@ classification work belonged to the wider team.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/keith-woods) ·
-[Email](mailto:woodskeith41@gmail.com)
+LinkedIn: [(https://www.linkedin.com/in/keith-woods)](https://www.linkedin.com/in/keith-woods)
+
+Email: [woodskeith41@gmail.com](mailto:woodskeith41@gmail.com)
