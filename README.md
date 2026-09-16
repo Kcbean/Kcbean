@@ -1,8 +1,11 @@
 # Hi, I'm Keith👋
 
 🎓 Economics & Data Science (Minor in Finance) @ Drexel University
+
 🏛️ Federal Contractor Compliance Volunteer @ U.S. Department of Labor (OFCCP)
+
 📈 IS Product Analyst Intern @ The Siegfried Group (Workday Reporting & HCM Data)
+
 🚀 Applied Analytics & ML Developer (Collaborative Filtering, Computer Vision, Econometrics)
 
 ## About Me
@@ -12,7 +15,7 @@ I use data to turn broad questions into reproducible analyses: defining the
 problem, cleaning and validating the data, comparing methods, and communicating
 the limits of the result.
 
-## Selected projects
+## Academic Projects
 
 ### [Anime Recommendation System](https://github.com/Kcbean/anime_recommendation_system)
 
