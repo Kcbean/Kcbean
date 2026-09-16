@@ -15,6 +15,14 @@ I use data to turn broad questions into reproducible analyses: defining the
 problem, cleaning and validating the data, comparing methods, and communicating
 the limits of the result.
 
+## Technical Skills
+
+- **Programming and data:** Python, SQL, R, Pandas, NumPy
+- **Modeling:** scikit-learn, TensorFlow/Keras, recommender systems, NLP,
+  classification, clustering, and time-series econometrics
+- **Analysis and Communication:** Matplotlib, Seaborn, Power BI, Tableau,
+  Stata, LaTeX, and Excel
+
 ## Academic Projects
 
 ### [Anime Recommendation System](https://github.com/Kcbean/anime_recommendation_system)
@@ -32,14 +40,6 @@ My segmentation contribution within a four-person academic capstone. I indexed
 TensorFlow `tf.data` pipeline, and validated an encoder-decoder segmentation
 workflow through Dice-based smoke tests. The repository states separately which
 classification work belonged to the wider team.
-
-## Technical focus
-
-- **Programming and data:** Python, SQL, R, Pandas, NumPy
-- **Modeling:** scikit-learn, TensorFlow/Keras, recommender systems, NLP,
-  classification, clustering, and time-series econometrics
-- **Analysis and Communication:** Matplotlib, Seaborn, Power BI, Tableau,
-  Stata, LaTeX, and Excel
 
 ## Background
 
