@@ -1,7 +1,6 @@
 # Hi, I'm Keith👋
 
 🎓 Economics & Data Science (Minor in Finance) @ Drexel University
-
 🏛️ Federal Contractor Compliance Volunteer @ U.S. Department of Labor (OFCCP)
 
 📈 IS Product Analyst Intern @ The Siegfried Group (Workday Reporting & HCM Data)
